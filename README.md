@@ -5,4 +5,4 @@
     <li>Post new pricings on owned countries</li>
     <li>Views the countries that they currently have</li>
 </ul>
-<p>Link to the accomanying <a href="" target="_blank">Back-End</a></p>
+<p>Link to the accomanying <a href="https://github.com/WCC901/Coats_Wade_GeoShop-Back-End_Capstone" target="_blank">Back-End</a></p>
